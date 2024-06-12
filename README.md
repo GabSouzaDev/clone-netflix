@@ -1,3 +1,5 @@
 # clone-netflix
 
-Projeto para estudo de React na trilha frontend
+Projeto para estudo de ReactJS e nodeJS
+
+
